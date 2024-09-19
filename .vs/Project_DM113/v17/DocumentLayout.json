@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Meu Computador\\Documents\\Pos-Gradua\u00E7\u00E3o\\DM113\\GRPC\\Project_DM113\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FF8BD1-07E5-4D42-9463-2669795F578F}|server\\server.csproj|c:\\users\\meu computador\\documents\\pos-gradua\u00E7\u00E3o\\dm113\\grpc\\project_dm113\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FF8BD1-07E5-4D42-9463-2669795F578F}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E701C4-F117-484A-B049-7E8CF719D94C}|client\\client.csproj|c:\\users\\meu computador\\documents\\pos-gradua\u00E7\u00E3o\\dm113\\grpc\\project_dm113\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E701C4-F117-484A-B049-7E8CF719D94C}|client\\client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FF8BD1-07E5-4D42-9463-2669795F578F}|server\\server.csproj|c:\\users\\meu computador\\documents\\pos-gradua\u00E7\u00E3o\\dm113\\grpc\\project_dm113\\server\\services\\recommendationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FF8BD1-07E5-4D42-9463-2669795F578F}|server\\server.csproj|solutionrelative:server\\services\\recommendationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E6E13F-685B-4A6F-8254-6471D3B25656}|Protos{E1E6E13F-685B-4A6F-8254-6471D3B25656}|C:\\Users\\Meu Computador\\Documents\\Pos-Gradua\u00E7\u00E3o\\DM113\\GRPC\\Project_DM113\\recomendacoes.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E1E6E13F-685B-4A6F-8254-6471D3B25656}|Protos{E1E6E13F-685B-4A6F-8254-6471D3B25656}|solutionrelative:recomendacoes.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecommendationServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\Documents\\Pos-Gradua\u00E7\u00E3o\\DM113\\GRPC\\Project_DM113\\server\\services\\RecommendationServiceImpl.cs",
+              "RelativeDocumentMoniker": "server\\services\\RecommendationServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\Documents\\Pos-Gradua\u00E7\u00E3o\\DM113\\GRPC\\Project_DM113\\server\\services\\RecommendationServiceImpl.cs",
+              "RelativeToolTip": "server\\services\\RecommendationServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:31:00.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "recomendacoes.proto",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\Documents\\Pos-Gradua\u00E7\u00E3o\\DM113\\GRPC\\Project_DM113\\recomendacoes.proto",
+              "RelativeDocumentMoniker": "recomendacoes.proto",
+              "ToolTip": "C:\\Users\\Meu Computador\\Documents\\Pos-Gradua\u00E7\u00E3o\\DM113\\GRPC\\Project_DM113\\recomendacoes.proto",
+              "RelativeToolTip": "recomendacoes.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-09-17T17:42:42.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\Documents\\Pos-Gradua\u00E7\u00E3o\\DM113\\GRPC\\Project_DM113\\client\\Program.cs",
+              "RelativeDocumentMoniker": "client\\Program.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\Documents\\Pos-Gradua\u00E7\u00E3o\\DM113\\GRPC\\Project_DM113\\client\\Program.cs",
+              "RelativeToolTip": "client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:35:07.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\Documents\\Pos-Gradua\u00E7\u00E3o\\DM113\\GRPC\\Project_DM113\\server\\Program.cs",
+              "RelativeDocumentMoniker": "server\\Program.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\Documents\\Pos-Gradua\u00E7\u00E3o\\DM113\\GRPC\\Project_DM113\\server\\Program.cs",
+              "RelativeToolTip": "server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:29:21.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

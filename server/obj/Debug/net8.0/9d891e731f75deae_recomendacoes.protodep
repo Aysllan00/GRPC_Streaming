@@ -1,0 +1,2 @@
+models/Recomendacoes.cs \
+models/RecomendacoesGrpc.cs: ../recomendacoes.proto
